@@ -1,3 +1,3 @@
 # jsapp
 
-React Zustand GrahQl App
+React Zustand GrahQl Nodejs App
